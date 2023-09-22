@@ -39,7 +39,7 @@ We do not sell or share your personal information with third parties without you
 - You can review and update your personal information within the App.
 - You do not have the option to withdraw your consent for data processing within the Mans Calendar app. Your use of the app implies ongoing consent to the data processing practices outlined in this Privacy Policy.
 
-## If you have any questions, concerns, or requests regarding your personal information or this Privacy Policy, please contact us at igor.starodynov@gmail.com.
+If you have any questions, concerns, or requests regarding your personal information or this Privacy Policy, please contact us at igor.starodynov@gmail.com.
 
 ## Changes to this Privacy Policy
 
