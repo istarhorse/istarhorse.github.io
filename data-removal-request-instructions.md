@@ -1,23 +1,31 @@
-# Mans Calendar App - User Data Deletion Request
+# Mans Calendar App Data Deletion Instructions
 
-To request the deletion of your user data from the Mans Calendar app, please follow these steps:
+To delete your data in the Mans Calendar app, follow these steps:
 
-1. **Email Address**: Ensure you are using the same email address that you used to log in to the Mans Calendar app.
+1. **Open the App**: Locate the Mans Calendar app on your device and tap to open it.
 
-2. **Compose an Email**: Open your email client and compose a new email.
+2. **Login with Your Account**: If you haven't already logged in, login with our Google or Apple account.
 
-3. **Recipient**: Address the email to `igor.starodynov@gmail.com`.
+3. **Access the Settings Menu**:
+   - In the app's main interface, look for the "Settings" in the bottom navigation bar.
+   - Tap on the "Settings" icon to access the settings menu.
 
-4. **Subject**: In the subject line of the email, please type the following: Mans Calendar - Delete User Data Request
+4. **Scroll Down**:
+   - Once you are in the settings menu, scroll down the page to view additional options.
 
-5. **Email Body**: The body of the email can remain empty. There is no need to include any additional information or text.
+5. **Delete User and Data**:
+   - Locate and tap on the "Delete User and Data" option. This action will initiate the data deletion process.
 
-6. **Send the Email**: Once you have filled in the subject line, simply send the email to `igor.starodynov@gmail.com`.
+6. **Follow On-Screen Prompts**:
+   - The app will present you with on-screen questions and actions to confirm your intention to delete your data.
+   - Read each question or instruction carefully and follow the prompts accordingly.
 
-7. **Confirmation**: After sending the email, you should receive a confirmation from the Mans Calendar app support team that your data deletion request has been received. Please allow some time for them to process your request.
+7. **Confirm Deletion**:
+   - At some point during the process, you will likely be asked to confirm your decision to delete your user account and data. Ensure that you are certain about this action before proceeding.
 
-Please note that by requesting the deletion of your user data, you may lose access to any personalized information or settings associated with your account. Make sure to back up any important data before proceeding with this request.
+8. **Completion**:
+   - Once you have successfully completed the required steps and confirmed the deletion, the app will process your request, and your user account and data will be deleted.
 
-For any further questions or assistance, you can contact Mans Calendar app support through the same email address provided above.
+Please note that deleting your user account and data is irreversible, and all your information associated with the Mans Calendar app will be permanently removed. Make sure to back up any data you want to keep before initiating the deletion process.
 
-Thank you for using the Mans Calendar app, and we appreciate your understanding of our data deletion process.
+If you have any questions or encounter issues during the deletion process, you can refer to the app's support resources or contact their customer support for assistance.
