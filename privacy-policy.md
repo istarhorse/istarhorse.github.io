@@ -39,7 +39,7 @@ We do not sell or share your personal information with third parties without you
 - You can review and update your personal information within the App.
 - You have the right to delete all data you have saved in the App, along with all user-related data.
 
-If you have any questions, concerns, or requests regarding your personal information or this Privacy Policy, please contact us at igor.starodynov@gmail.com.
+If you have any questions, concerns, or requests regarding your personal information or this Privacy Policy, please contact us at info@istarhorse.com.
 
 ## Changes to this Privacy Policy
 
